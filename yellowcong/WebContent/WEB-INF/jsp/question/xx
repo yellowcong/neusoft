@@ -1,0 +1,10 @@
+"<ul class=\"sel_question\" >"+
+"<li class=\"title\">2. <input type=\"text\" class=\"form-control qusTitle\"   placeholder=\"请输入题目名称\"/><span class=\"deleteRow\"><a href=\"#\"  class=\"btn btn-danger delRowBtn\">删除 </a></span></li>"+
+"<li class=\"answer\"><input type=\"checkbox\" checked=\"true\"><span><input type=\"text\" class=\"form-control answer_input\" type=\"checkbox\"  placeholder=\"请输入答案内容\"/></span><span class=\"deleteRow\"><a href=\"#\"  class=\"btn btn-danger delRowBtn\">删除 </a></span></lable></li>"+
+"<li  class=\"answer\"><input type=\"checkbox\" checked=\"true\"><span><input type=\"text\" class=\"form-control answer_input\"  placeholder=\"请输入答案内容\"/></span><span class=\"deleteRow\"><a href=\"#\"  class=\"btn btn-danger delRowBtn\">删除 </a></span></input></li>"+
+"<li class=\"answer\"><input type=\"checkbox\"><span><input type=\"text\" class=\"form-control answer_input\"  placeholder=\"请输入答案内容\"/></span></input><span class=\"deleteRow\"><a href=\"#\"  class=\"btn btn-danger delRowBtn\">删除 </a></span></li>"+
+"<li class=\"answer\"><input type=\"checkbox\"><span><input type=\"text\" class=\"form-control answer_input\"  placeholder=\"请输入答案内容\"/></span></input><span class=\"deleteRow\"><a href=\"#\"  class=\"btn btn-danger delRowBtn\">删除 </a></span></li>"+
+"<div class=\"submit_content\">"+
+"<center><a href= \"#\" class=\"btn btn-primary add_option_btn\" >添加选项</a></center>"+
+"</div>"+
+"</ul>"
